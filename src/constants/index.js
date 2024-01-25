@@ -92,15 +92,9 @@ export const reviews = [
     {
         imgURL: customer4,
         customerName: 'Dr Esther',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        rating: 4.9,
+        feedback: "Exceptional shoes! Comfortable, stylish, and durable. Perfect for everyday wear and special occasions. Highly recommend for anyone seeking quality footwear."
     },
-    // {
-    //     imgURL: customer6,
-    //     customerName: 'Samia',
-    //     rating: 4.5,
-    //     feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
-    // },
     {
         imgURL: customer3,
         customerName: 'Dev Tony',
